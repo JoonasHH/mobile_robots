@@ -1,2 +1,2 @@
 # mobile_robots
-Contains files for a group project work in TUT.
+Contains files for group projects in TUT.
